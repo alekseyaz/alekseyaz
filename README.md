@@ -1,4 +1,6 @@
-### Hi there 👋
+ ### Hi there 👋
+
+I’m Aleksey Zemskov, a Software Engineer based in Moskow, Russia specializing in building Web Applications, APIs using (ASP).NET Core and related Stack with Clean Architecture.
 
 <!--
 **alekseyaz/alekseyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
